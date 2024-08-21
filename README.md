@@ -1,2 +1,7 @@
-# jeremias-davila.github.io
+# Data Scientist & AI Engineer
+
+### Education
 Personal Portfolio design
+
+
+### Work Experience
