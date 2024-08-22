@@ -34,7 +34,7 @@ Hello! I'm Jeremías Dávila, a passionate artifcial intelligence developer with
 
 ## Projects
 
-### 1. AI-Powered Personal Assistant
+### 1. Attrition Risk
 **GitHub:** [github.com/ImSherlocked27/Attrition-Risk-Analysis](https://github.com/ImSherlocked27/Attrition-Risk-Analysis)
 
 My thesis project, a deep analysis in the churn of employees in a consultancy company, it includes:
