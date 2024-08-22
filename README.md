@@ -7,7 +7,7 @@ Hello! I'm Jeremías Dávila, a passionate artifcial intelligence developer with
 - **Location:** Córdoba, Argentina
 - **Email:** jeremiasdavila@hotmail.es
 - **LinkedIn:** [linkedin.com/in/jeremias-davila](https://www.linkedin.com/in/jeremias-davila/)
-- **GitHub:** [github.com/johndoe](https://github.com/ImSherlocked27)
+- **GitHub:** [github.com/ImSherlocked27](https://github.com/ImSherlocked27)
 
 ## Education
 
